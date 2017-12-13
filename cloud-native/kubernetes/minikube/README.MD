@@ -25,8 +25,15 @@ $ kubectl version --client        # Client Version: version.Info{Major:"1", Mino
 
 ## Start
 ``` shell
-$ minikube delete && minikube start --kubernetes-version v1.8.0 --bootstrapper kubeadm
+$ minikube delete && minikube start --cpus 4 --memory 8192 --kubernetes-version v1.8.0 --bootstrapper kubeadm
 ```
+
+Start with more memory and cpu's
+
+```shell
+$ minikube stop && minikube start --cpus 4 --memory 8192
+```
+
 
 Use kubeadm as localkube is being depricated.
 
