@@ -34,7 +34,6 @@ Start with more memory and cpu's
 $ minikube stop && minikube start --cpus 4 --memory 8192
 ```
 
-
 Use kubeadm as localkube is being depricated.
 
 This will build and start a lightweight local cluster, consisting of a master, etcd, Docker and a single node.
