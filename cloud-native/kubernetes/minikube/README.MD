@@ -39,6 +39,13 @@ Use kubeadm as localkube is being depricated.
 This will build and start a lightweight local cluster, consisting of a master, etcd, Docker and a single node.
 Minikube will also create a “minikube” context, and set it to default in kubectl. To switch back to this context later, run this command: `kubectl config use-context minikube`.
 
+## Dashboard
+```shell
+$ minikube dashboard
+
+http://192.168.99.100:30000/#!/overview?namespace=default
+```
+
 ## List Minikube Addons
 ```shell
 $ minikube addons list
