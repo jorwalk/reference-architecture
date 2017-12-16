@@ -21,3 +21,15 @@ Container components only contain that components that are smart.
 
 ## Dumb Component
 App.js is the Dumb component, it includes the child component but, it does not interact the store. So we put that component inside components folder.
+
+paintcolor.io
+
+
+https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/
+
+https://www.pexels.com/photo/art-business-color-colorful-276267/
+https://www.pexels.com/photo/business-catalog-cloth-color-259756/
+https://www.pexels.com/photo/art-business-color-colorful-276267/
+https://www.pexels.com/photo/colors-palette-5933/
+https://www.pexels.com/photo/gray-standard-color-book-near-green-eraser-159045/
+https://www.pexels.com/photo/color-palette-colors-colours-paint-259714/
