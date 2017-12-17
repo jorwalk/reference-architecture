@@ -50,7 +50,7 @@ class ThreeDMap extends React.Component {
 
     return (
       <Map
-        style= {config.styles.street}
+        style= {config.styles.light}
         containerStyle={{
           height: "100vh",
           width: "100vw"
