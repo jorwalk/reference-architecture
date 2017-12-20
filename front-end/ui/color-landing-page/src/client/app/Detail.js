@@ -10,7 +10,7 @@ export default (props) => {
             <p className="lead mb-0">{brand}</p>
             <em>{guid}</em>
             <hr className="my-4" />
-            <h2>Sign up and find your paint color!</h2>
+            <h2>Sign up and start planning your paint colors!</h2>
             <p>
               <a className="btn btn-primary btn-lg ml-4" href="#" role="button">Start Today</a>
             </p>
