@@ -3,15 +3,18 @@
 A reference architecture in the field of software architecture or enterprise architecture provides a template solution for an architecture for a particular domain. It also provides a common vocabulary with which to discuss implementations, often with the aim to stress commonality. A software reference architecture is a software architecture[1] where the structures and respective elements and relations provide templates for concrete architectures in a particular domain or in a family of software systems.
 
 
- Data Science
+ ## Data Science
 
- Machine Learning
+ ### Machine Learning
 
- Cloud-native
+ ### Cloud-native
+
  * DevOps
+
  DevOps is the collaboration between software developers and IT operations with the goal of constantly delivering high-quality software that solves customer challenges. It creates a culture and environment where building, testing and releasing software happens rapidly, frequently, and more consistently.
 
  * continuous delivery
+
  Continuous Delivery, enabled by Agile product development practices, is all about shipping small batches of software to production constantly, through automation. Continuous delivery makes the act of releasing dull and reliable, so organizations can deliver frequently, at less risk, and get feedback faster from end users.
 
  * microservices
