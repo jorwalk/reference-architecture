@@ -1,7 +1,7 @@
 # Message broker
 From Wikipedia, the free encyclopedia
 
-![Sequence diagram for depicting the Message Broker pattern](https://en.wikipedia.org/wiki/Message_broker#/media/File:Message_Broker.png)
+![Sequence diagram for depicting the Message Broker pattern](https://upload.wikimedia.org/wikipedia/commons/9/91/Message_Broker.png)
 
 Sequence diagram for depicting the Message Broker pattern
 
