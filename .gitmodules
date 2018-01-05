@@ -1,3 +1,6 @@
 [submodule "message-broker/kafka-docker"]
 	path = message-broker/kafka-docker
 	url = https://github.com/wurstmeister/kafka-docker.git
+[submodule "python/python-machine-learning-book-2nd-edition"]
+	path = python/python-machine-learning-book-2nd-edition
+	url = https://github.com/rasbt/python-machine-learning-book-2nd-edition.git
