@@ -7,3 +7,6 @@
 [submodule "python/osmnx"]
 	path = python/osmnx
 	url = https://github.com/gboeing/osmnx.git
+[submodule "python/ipython-notebooks"]
+	path = python/ipython-notebooks
+	url = https://github.com/jdwittenauer/ipython-notebooks.git
