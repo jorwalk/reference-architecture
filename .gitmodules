@@ -4,3 +4,9 @@
 [submodule "python/python-machine-learning-book-2nd-edition"]
 	path = python/python-machine-learning-book-2nd-edition
 	url = https://github.com/rasbt/python-machine-learning-book-2nd-edition.git
+[submodule "python/osmnx"]
+	path = python/osmnx
+	url = https://github.com/gboeing/osmnx.git
+[submodule "python/ipython-notebooks"]
+	path = python/ipython-notebooks
+	url = https://github.com/jdwittenauer/ipython-notebooks.git

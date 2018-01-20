@@ -25,3 +25,6 @@ A reference architecture in the field of software architecture or enterprise arc
 
  * containers
  Containers offer both efficiency and speed compared with standard virtual machines (VMs). Using operating system (OS)-level virtualization, a single OS instance is dynamically divided among one or more isolated containers, each with a unique writable file system and resource quota. The low overhead of creating and destroying containers combined with the high packing density in a single VM makes containers an ideal compute vehicle for deploying individual microservices.
+
+* Continuious Delivery
+* Logging
