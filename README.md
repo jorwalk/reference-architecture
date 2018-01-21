@@ -4,6 +4,8 @@ A reference architecture in the field of software architecture or enterprise arc
 
 ## Front end
 ### Bootstrap
+#### Examples
+#### Snippets
 ### Material
  ## Data Science
  ### Python
