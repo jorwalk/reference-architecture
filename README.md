@@ -10,10 +10,12 @@ A reference architecture in the field of software architecture or enterprise arc
  ## Data Science
  ### Python
  #### Weather
+ #### Stocks
+ #### Visualizations
 
 ## Machine Learning
 ### Supervised
-### UnSupervised 
+### UnSupervised
 
  ### Cloud-native
 
