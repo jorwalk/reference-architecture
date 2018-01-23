@@ -7,15 +7,33 @@ A reference architecture in the field of software architecture or enterprise arc
 #### Examples
 #### Snippets
 ### Material
- ## Data Science
- ### Python
- #### Weather
- #### Stocks
- #### Visualizations
+
+## Data Science
+### Python
+#### Weather
+#### Stocks
+#### Visualizations
 
 ## Machine Learning
 ### Supervised
 ### UnSupervised
+### Reinforcement Learning
+### Common Algorithms
+[Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
+#### Linear Regression
+#### Logistic Regression
+#### Decision Tree
+#### SVM
+#### Naive Bayes
+#### KNN
+####  K-Means
+#### Random Forest
+#### Dimensionality Reduction Algorithms
+#### Gradient Boosting algorithms
+##### GBM
+#####XGBoost
+#####LightGBM
+#####CatBoost
 
  ### Cloud-native
 
