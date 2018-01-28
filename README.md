@@ -5,14 +5,18 @@ A reference architecture in the field of software architecture or enterprise arc
 ## Front end
 ### Bootstrap
 ### Material
- ## Data Science
- ### Python
- #### Weather
+## Data Science
+### Python
+#### Weather
 
- ### Machine Learning
+### Machine Learning
 
- ### Cloud-native
-
+### Cloud-native
+#### Jenkins
+#### 12 Factor Microservice
+#### Docker
+#### Elasticsearch
+#### Prometheus
  * DevOps
 
  DevOps is the collaboration between software developers and IT operations with the goal of constantly delivering high-quality software that solves customer challenges. It creates a culture and environment where building, testing and releasing software happens rapidly, frequently, and more consistently.
