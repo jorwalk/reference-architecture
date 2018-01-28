@@ -4,12 +4,9 @@ A reference architecture in the field of software architecture or enterprise arc
 
 ## Front end
 ### Bootstrap
+#### Examples
+#### Snippets
 ### Material
-## Data Science
-### Python
-#### Weather
-
-### Machine Learning
 
 ### Cloud-native
 #### Jenkins
@@ -17,6 +14,36 @@ A reference architecture in the field of software architecture or enterprise arc
 #### Docker
 #### Elasticsearch
 #### Prometheus
+
+## Data Science
+### Python
+#### Weather
+#### Stocks
+#### Visualizations
+
+## Machine Learning
+### Supervised
+### UnSupervised
+### Reinforcement Learning
+### Common Algorithms
+[Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
+#### Linear Regression
+#### Logistic Regression
+#### Decision Tree
+#### SVM
+#### Naive Bayes
+#### KNN
+####  K-Means
+#### Random Forest
+#### Dimensionality Reduction Algorithms
+#### Gradient Boosting algorithms
+##### GBM
+#####XGBoost
+#####LightGBM
+#####CatBoost
+
+ ### Cloud-native
+
  * DevOps
 
  DevOps is the collaboration between software developers and IT operations with the goal of constantly delivering high-quality software that solves customer challenges. It creates a culture and environment where building, testing and releasing software happens rapidly, frequently, and more consistently.
