@@ -13,6 +13,7 @@ A reference architecture in the field of software architecture or enterprise arc
 #### 12 Factor Microservice
 #### Docker
 #### Elasticsearch
+#### Kibana
 #### Prometheus
 
 ## Data Science
