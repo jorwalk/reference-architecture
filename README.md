@@ -64,3 +64,7 @@ A reference architecture in the field of software architecture or enterprise arc
 
 #### Continuious Delivery
 #### Logging
+* Elasticsearch
+* Splunk
+
+### Distributed Tracing
