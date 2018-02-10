@@ -56,6 +56,9 @@ A reference architecture in the field of software architecture or enterprise arc
  Continuous Delivery, enabled by Agile product development practices, is all about shipping small batches of software to production constantly, through automation. Continuous delivery makes the act of releasing dull and reliable, so organizations can deliver frequently, at less risk, and get feedback faster from end users.
 
 #### microservices
+* 12 Factor App
+The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
+
  Microservices is an architectural approach to developing an application as a collection of small services; each service implements business capabilities, runs in its own process and communicates via HTTP APIs or messaging. Each microservice can be deployed, upgraded, scaled, and restarted independent of other services in the application, typically as part of an automated system, enabling frequent updates to live applications without impacting end customers.
 
 
