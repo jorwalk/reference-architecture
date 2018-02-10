@@ -68,3 +68,4 @@ A reference architecture in the field of software architecture or enterprise arc
 * Splunk
 
 ### Distributed Tracing
+* Jaeger
