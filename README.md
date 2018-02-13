@@ -25,6 +25,10 @@ A reference architecture in the field of software architecture or enterprise arc
 #### Visualizations
 
 ## Machine Learning
+Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed.
+
+The name Machine learning was coined in 1959 by Arthur Samuel. Evolved from the study of pattern recognition and computational learning theory in artificial intelligence, machine learning explores the study and construction of algorithms that can learn from and make predictions on data – such algorithms overcome following strictly static program instructions by making data-driven predictions or decisions, through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible; example applications include email filtering, detection of network intruders or malicious insiders working towards a data breach, optical character recognition (OCR), learning to rank, and computer vision.
+
 ### Supervised
 ### UnSupervised
 ### Reinforcement Learning
