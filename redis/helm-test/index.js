@@ -28,10 +28,10 @@ Redis.prototype = {
     this.client.get(key, cb)
   },
   set: function(key, value) {
-    this.client.set(key, value, null)
+    this.client.set(key, value, redis.print)
   },
   hset: function(key, values) {
-    this.client.hset(key, values, null);
+    this.client.hset(key, values, redis.print);
   },
   delete: function (key) {
     this.client.del(key)
