@@ -1,2 +1,3 @@
 redis/data
 redis/nodejs/node_modules
+redis/helm-test/node_modules
