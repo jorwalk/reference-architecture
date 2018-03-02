@@ -1,0 +1,12 @@
+{
+  "name": "helm-test",
+  "version": "1.0.0",
+  "description": "redis nodejs client",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "author": "Jordan Walker",
+  "license": "ISC"
+}
