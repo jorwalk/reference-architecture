@@ -1,3 +1,6 @@
 redis/data
 redis/nodejs/node_modules
 redis/helm-test/node_modules
+django-postgres/mysite/mysite/__pycache__
+django-postgres/mysite/polls/__pycache__
+django-postgres/mysite/polls/migrations/__pycache__
