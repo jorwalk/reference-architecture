@@ -5,3 +5,4 @@ django-postgres/mysite/mysite/__pycache__
 django-postgres/mysite/polls/__pycache__
 django-postgres/mysite/polls/migrations/__pycache__
 python/.ipynb_checkpoints
+python/img
