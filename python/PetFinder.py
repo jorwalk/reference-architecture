@@ -88,8 +88,8 @@ def requestPage(number):
 
 # Loop
 # max_pages = 6540
-start = 430
-max_pages = 1000
+start = 1001
+max_pages = 6540
 for n in range(start, max_pages):
     requestPage(n)
     time.sleep(3)
