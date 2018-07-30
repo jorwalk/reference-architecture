@@ -10,3 +10,6 @@ python/electric-gauge/gauges
 python/electric-gauge/needles
 python/img-cat
 python/img-dog
+python/electric-gauge/psi_gauge/gauges
+python/electric-gauge/psi_gauge/needles
+python/electric-gauge/psi_gauge/synthetic
